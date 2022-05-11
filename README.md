@@ -1,2 +1,2 @@
-# Cuidados-com-peixes-beta
+# Cuidados com peixe Beta
 Como cuidar de um peixe Beta
